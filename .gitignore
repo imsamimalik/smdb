@@ -25,3 +25,7 @@ yarn-error.log*
 
 # api keys
 .env
+
+# firebase files
+/.firebase
+.firebaserc
